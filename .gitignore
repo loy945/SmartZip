@@ -1,0 +1,30 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+*.png
+*.bmp
+*.jpg
+*.isproj
+/Setup1/Setup1.isl
+/Setup1/Setup1/Express/Interm/_IsIcoRes.Exe
+*.gif
+*.log
+/Setup1/Setup1/Express/SingleImage/DiskImages/DISK1/setup.exe
+/Setup1/Setup1/Express/SingleImage/LogFiles/12-26-2016 12-19-16 下午.txt
+/Setup1/Setup1/Express/SingleImage/Reports/12-26-2016 12-19-48 下午.htm
+/Smart_Zip_QT.opensdf
+/Smart_Zip_QT.sdf
+/Smart_Zip_QT.sln
+/Smart_Zip_QT.v12.suo
+*.tlog
+*.pdb
+*.obj
+*.qrc
+*.ui
+*.dll
+*.lib
+*.htm
+*.exe
+*.ilk
+*.txt
